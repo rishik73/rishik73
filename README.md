@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Rishik Khobragade
 
-<!--
-**rishik73/rishik73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer from India.
 
-Here are some ideas to get you started:
+I enjoy building scalable web and mobile applications using modern JavaScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+💻 React.js
+📱 React Native
+⚡ Next.js
+🟢 Node.js
+🗄 PostgreSQL
+🔐 JWT Authentication
+🔗 REST APIs
+🧪 Postman
+📦 Git & GitHub
+
+## Currently Building
+
+🎓 AI-Powered Student Learning Tracker
+
+## Projects
+
+🚆 IRCTC Clone
+
+📱 AI-Powered Student Learning Tracker
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/rishikk24/)
+Email: rishikk73@gmail.com
